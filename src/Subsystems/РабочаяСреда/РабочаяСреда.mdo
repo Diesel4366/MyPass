@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c61694d9-3fe4-4fed-9e66-676b5f2e388d">
+  <name>РабочаяСреда</name>
+  <synonym>
+    <key>ru</key>
+    <value>Рабочая среда</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Catalog.Пароли</content>
+</mdclass:Subsystem>
