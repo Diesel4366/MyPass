@@ -22,6 +22,8 @@
     </functionality>
   </usedMobileApplicationFunctionalities>
   <defaultLanguage>Language.Русский</defaultLanguage>
+  <logo/>
+  <splash/>
   <dataLockControlMode>Managed</dataLockControlMode>
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
   <modalityUseMode>DontUse</modalityUseMode>
@@ -38,4 +40,5 @@
   <subsystems>Subsystem.Администрирование</subsystems>
   <subsystems>Subsystem.РабочаяСреда</subsystems>
   <catalogs>Catalog.Пароли</catalogs>
+  <dataProcessors>DataProcessor.НастройкаОблако</dataProcessors>
 </mdclass:Configuration>

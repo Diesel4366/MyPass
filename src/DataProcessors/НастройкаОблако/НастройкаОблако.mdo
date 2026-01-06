@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="172d4f09-6fac-421f-9685-50bbe0c390c7">
+  <producedTypes>
+    <objectType typeId="86302811-daab-45d1-80ce-8de0b39dd3a1" valueTypeId="7dca5668-51c2-4c18-a6b1-6ecb18bd757f"/>
+    <managerType typeId="de46b1fa-ef1f-4f0f-9b4e-e2065e625cb2" valueTypeId="d58df490-cc1a-4f94-bd82-3715a665f31d"/>
+  </producedTypes>
+  <name>НастройкаОблако</name>
+  <synonym>
+    <key>ru</key>
+    <value>Настройка облако</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.НастройкаОблако.Form.Форма</defaultForm>
+  <forms uuid="342d0d36-d221-45d0-9833-687a9b74f184">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>
